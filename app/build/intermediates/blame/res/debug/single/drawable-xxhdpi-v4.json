@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\phone96.png",
+        "source": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\src\\main\\res\\drawable-xxhdpi\\phone96.png"
+    },
+    {
+        "merged": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\activityfeed96.png",
+        "source": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\src\\main\\res\\drawable-xxhdpi\\activityfeed96.png"
+    },
+    {
+        "merged": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\camera.png",
+        "source": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\src\\main\\res\\drawable-xxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher_report.png",
+        "source": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_report.png"
+    },
+    {
+        "merged": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\callbutton.png",
+        "source": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\src\\main\\res\\drawable-xxhdpi\\callbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\login.png",
+        "source": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\src\\main\\res\\drawable-xxhdpi\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\contacts96.png",
+        "source": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\src\\main\\res\\drawable-xxhdpi\\contacts96.png"
+    },
+    {
+        "merged": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher_header.png",
+        "source": "C:\\Users\\moji\\AndroidStudioProjects\\Traceble Shoe\\Android_app\\EMUPolice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_header.png"
+    }
+]
